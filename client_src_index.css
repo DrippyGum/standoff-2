@@ -1,0 +1,5 @@
+/* Game-themed styles with glowing borders, animations */
+.game-border {
+  border: 2px solid hsl(var(--secondary));
+  box-shadow: 0 0 15px rgba(42, 148, 244, 0.5);
+}
